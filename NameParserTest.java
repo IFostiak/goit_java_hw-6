@@ -1,4 +1,4 @@
-class NameParser {
+class NameParserTest {
     public String parse(String[] names) {
         int count = names.length;
         int cnt = 0;
